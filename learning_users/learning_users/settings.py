@@ -27,7 +27,7 @@ SECRET_KEY = 'x3p(uys)&6vixgiwnh4h45sf_*ec&_6vg3cm^6ik$_!eerv$4@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://strike5.pythonanywhere.com/']
 
 
 # Application definition
